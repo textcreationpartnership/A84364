@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most excellent and remarkable speech delivered, by that mirrour and miracle of princes, Queen Elizabeth of famous memory, in the Honourable the High Court of Parliament, in the seventeenth yeere of her reigne; wherein shee [sic] fully expresseth the duty of princes to their subjects, and that of subjects to their princes: setting forth also the good opinion she had of the justice and moderation of our English Parliaments towards both prince and people, as it is faithfully collected out of the records of the said Parliament; a discourse very suitable for these times.</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84364</idno>
+            <idno type="STC">Wing E531</idno>
+            <idno type="STC">Thomason E86_29</idno>
+            <idno type="STC">ESTC R12690</idno>
+            <idno type="EEBO-CITATION">99859325</idno>
+            <idno type="PROQUEST">99859325</idno>
+            <idno type="VID">111399</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84364)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111399)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E86[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most excellent and remarkable speech delivered, by that mirrour and miracle of princes, Queen Elizabeth of famous memory, in the Honourable the High Court of Parliament, in the seventeenth yeere of her reigne; wherein shee [sic] fully expresseth the duty of princes to their subjects, and that of subjects to their princes: setting forth also the good opinion she had of the justice and moderation of our English Parliaments towards both prince and people, as it is faithfully collected out of the records of the said Parliament; a discourse very suitable for these times.</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Humphrey Richardson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Ianuary 28. An. Dom. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kings and rulers --  Duties --  Early works to 1800.</term>
+               <term>Allegiance --  Early works to 1800.</term>
+               <term>Monarchy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111399:1"/>
+            <!-- PDF PAGE 109 -->
+            <pb facs="tcp:111399:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <p>A moſt Excellent and Remarkable SPEECH, DELIVERED By that Mirrour and Miracle of Princes, <hi>Q<g ref="char:V">Ʋ</g>EEN ELIZABETH,</hi> Of famous memory, in the Honourable the High Court of PARLIAMENT, in the ſeventeenth yeere of her REIGNE;</p>
+            <p>Wherein ſhee fully expreſſeth the duty of Princes to their Subjects, and that of Subjects to their Princes:</p>
+            <p>Setting forth alſo, the good Opinion She had of the Juſtice and Moderation of Our <hi>Engliſh</hi> PARLIAMENTS towards both Prince and People,</p>
+            <p>As it is faithfully collected out of the Records of the ſaid PARLIAMENT;</p>
+            <p>A Diſcourſe very ſuitable for theſe times.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Humphrey Richardſon, Ianuary</hi> 28. <hi>An. Dom.</hi> 1643. <add>1642</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:111399:2"/>
+            <!-- PDF PAGE 110 -->
+            <pb n="3" facs="tcp:111399:2"/>
+            <!-- PDF PAGE 110 -->
+            <head>
+               <figure>
+                  <q>DOCTRINA PARIT VIRTVTEM</q>
+                  <figDesc>printer's or publisher's device</figDesc>
+               </figure>
+            </head>
+            <head>A moſt Excellent and Remarkable <hi>SPEECH,</hi> Delivered by that Mirrour and Miracle of Princes, Queen <hi>Elizabeth,</hi> of famous memory, in the Honourable the High Court of Parliament. in the ſeventeenth yeere of her Re<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gne.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His preſent Seſſion of Parliament ga<g ref="char:EOLhyphen"/>thered together by Our command, for the good of Our ſelfe and the proſperity of Our, Subjects, Wee wiſh may be as fortunate to them as conducing to Our intents, which ſhall ſtill guide themſelves to the ad<g ref="char:EOLhyphen"/>vancement of Our peoples wel-fare. We are not ignorant of the imbecil<g ref="char:EOLhyphen"/>lity and unableneſſe of Our ſex to governe ſuch a powerfull and mighty Kingdom as this is, ſtrong in faction, through rea<g ref="char:EOLhyphen"/>ſon of diverſity of Religion now raigning in it, forraigne Princes, eſpecially the <hi>Pope</hi> and the King of <hi>Spaine,</hi> Our in<g ref="char:EOLhyphen"/>veterate enemies, in regard of the profeſſion of the Goſpell, who, both by practices abroad, and incitations of Our Sub<g ref="char:EOLhyphen"/>jects at home, have ſought all meanes to deprive Us of the royalty of this Our Hereditary Kingdome; ſuch and ſo bloody
+<pb n="4" facs="tcp:111399:3"/>
+               <!-- PDF PAGE 111 -->
+               <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> lo<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the true Worſhip of God, that they never ceaſe, like ro<g ref="char:EOLhyphen"/>ring Lyons, to goe about day and night, ſeeking whom they may devoure: but though feare be naturally incident to Ou<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſex, it is baniſhed from the condition of a Prince; as We<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a woman. We may feare to fall under their malice; as Wee are a Prince, the Soveraigne of this Kingdome, Wee cannot dread their attempts, knowing that the awe which is in<g ref="char:EOLhyphen"/>tailed upon Majeſty, hath power to ſtrike dead all ſuch en<g ref="char:EOLhyphen"/>terprizes of the moſt deſperate traytors that are; and for Our owne part. We ſhall no wayes be careleſſe of Our owne ſecu<g ref="char:EOLhyphen"/>rity: but as you, my Lords, and Our honourable the Houſe of Commons, have beene well and judiciouſly adviſed in en<g ref="char:EOLhyphen"/>acting good and wholeſome lawes againſt theſe inhumane and barbarous traytors, the <hi>Recuſants</hi> of this Kingdome, ſo ſhall We without regard or feare of any, ſee they be put in ex<g ref="char:EOLhyphen"/>ecution. We have made it alwayes Our principall ſtudy, my Lords, to be well experienced in the duty of Princes to<g ref="char:EOLhyphen"/>wards their people, and by the inſtructions both of the Divine and Humane lawes, We find that Princes have as neere a re<g ref="char:EOLhyphen"/>lation, and as ſtrict an obligation to their Subjects, as Subjects have to them; <hi>ſecundum morem principis,</hi> after the manner which a Prince can be ingaged or obliged, that is, by the bond fealed to the people at the Coronation; every Prince cove<g ref="char:EOLhyphen"/>nants with the people, to defend them from all injuries, domeſticke and forraigne, to inſtitute and ordaine good and wholeſome lawes for their ſecurity, from oppreſſions one from another, and from the Prince himſelfe, who by the un<g ref="char:EOLhyphen"/>limited power and prerogative of his royalty, may onely, and yet more grievouſly afflict the people then the people can any way injure one another; the people being equall one with another, and obliged to the ſame lawes, the Prince be<g ref="char:EOLhyphen"/>ing above them. And ſurely wrongs from equalls are eaſilier righted then from ſuperiours, the eminence of power oft eithes blinding the Eagles eyes of equity.</p>
+            <p>A Prince ſhould therefore be toward the people, as that
+<pb n="5" facs="tcp:111399:3"/>
+               <!-- PDF PAGE 111 -->great Prophet <hi>Samuel</hi> was toward the <hi>Iſraelites,</hi> whom, when hee had judged for many yeares, hee boldly challeng'd the whole Congregation to atteſt againſt him whoſe Oxe, or whoſe Aſſe he had taken, or from whom he had received any bribe to pervert Juſtice.</p>
+            <p>This, my Lords, have We in Our conſideration and reſo<g ref="char:EOLhyphen"/>lution, ſet downe as Our preſident in the government of this Our Engliſh Iſrael, whom Gods mercies have notified his peculiar people, and this we ſhall ever accompliſh, the due adminiſtration of Juſtice. Princes as they are Gods on earth in title, ſhould be ſo in their actions: and We call you all to witneſſe, my Lords, this day, that in this ſeventeenth yeare of Our raigne over you, We have never performed any act preduciall to the liberty, or oppoſite to the known lawes of the land, which have been confirmed to them by ſo many Kings, Our Royall Progenitors; and ſurely what Monarch of <hi>England</hi> that ſhall at any time goe about to alienate the property of the Subject, or impoſe on their immunities any innovation, or diminiſhment, can never boaſt himſelfe to be abſolute Soveraigne of this Kingdome, nor to injoy His Crowne and dignity, with the well wiſhes, and affections of his Subjects; for ſo large is the charter of the Engliſh Sub<g ref="char:EOLhyphen"/>jects liberty, which the piety of Our Royall Predeceſſors have granted them, and the merit of their own anceſtors purchaſed, that they are a free people, if compared with other Nations, who groan under the yoak and heavy burdens laid on their ſervile necks by their Soveraignes, cuſtome in ſuffring, making them undergo their ſuffrings with-patience.</p>
+            <p>But the nature We know of all Engliſhmen to be ſuch, that faire words and gentle uſage may ſooner overcome and inſlave their huge ſtomacks and great ſpirits then any force or foule meanes whatſoever. There lives not in the whole world a more obedient people to their Soveraigne then Ours are, ſo long as they continue; the Prince ſtudies to de<g ref="char:EOLhyphen"/>fend and preſerve their liberties, but if once they fal off from that opinion, either by the over ſeverity, or too much neg<g ref="char:EOLhyphen"/>lect
+<pb n="4" facs="tcp:111399:4"/>
+               <!-- PDF PAGE 112 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:111399:4"/>
+               <!-- PDF PAGE 112 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:111399:5"/>
+               <!-- PDF PAGE 113 -->of their Soveraigne in the managing the affaires of the Common-wealth: They are of all other Subjects moſt vio<g ref="char:EOLhyphen"/>lent and implacable, which We conceive proceeds out of the extraordinary affection they beare their King, grieving inwardly, and taking from hence more to heart any indig<g ref="char:EOLhyphen"/>nity offered them then any Subject whatſoever.</p>
+            <p>But you my Lords, and you Our houſe of Commons, of this Our high Court of Parliament, to you the principall care of Our people by Us hath ever beene committed; Wee are ſo well aſſured, both by your own integrities, and the preſidents which you have given in former ages, both to Our Royall Father, and others of Our renowned Anceſtors, of your loyalties, that Wee ſhould eſteeme it an uncivill defect in Our judgement to doubt thereof: Wee know it was the Act and wiſedome of Parliament that united thoſe two long jarring Royall Families of Yorke and Lancaſter, both in Our ſelfe incorporated, by the marrying of Our Grandmother and Grandfather of famous memory. It was the power of Parliament that aſſiſted Our ſaid Grand father againſt all thoſe conſpiracies of <hi>Warbecke, Lambert,</hi> and o<g ref="char:EOLhyphen"/>thers, and tendred him victorious over all of them. It was the wiſedome of His ſupreme Councell, the Parliament, guiding and counſelling His actions as well as His owne naturall prudence, that made Him bee accounted the very <hi>Solomon</hi> of his time throught all Nations; and ſurely it cannot be denied, but it was the ſame genius of Parliament that in Our Royall Fathers time produced ſuch admirable effects, as were the denying the Antichriſtian Supremacy of the Pope, and the diſſolutions of thoſe Seminaries of ſloth and vices, the wealthy Abbies and Monaſteries, which had gotten into their poſſeſſion the very fat of this Land, flowing with milke and honey, and did alſo aſſiſt Him with aids of money in all his wars abroad, rendring His name terrible to other Nations. It hath been the juſtice of Parlia<g ref="char:EOLhyphen"/>ment that hath ſetled the indubitate right of this Kingdome in his children, Our Brother, Siſter, and laſt of all, Our ſelfe,
+<pb n="7" facs="tcp:111399:5"/>
+               <!-- PDF PAGE 113 -->who muſt acknowledge that the Parliaments congregated by Us, have been happy and fortunate, both to Our Selfe and people; they have augmented: and ſetled Our Royall Revenue, diſcovered and puniſhed all dangerous conſpi<g ref="char:EOLhyphen"/>racies againſt Us, making and providing ſharpe and fitting lawes for the determent of all deſperate wretches from practiſing ought of violence-againſt Our Perſon. The Par<g ref="char:EOLhyphen"/>liament hath by Our conſent, reduced coyne throughout Our Kingdome of <hi>England,</hi> and Principality of <hi>Wales,</hi> to its juſt and ſtaple value. Finally, the Parliament is the me<g ref="char:EOLhyphen"/>diator betwixt the Soveraignes of this Kingdome and the people thereof, the beſt inheritance and ſupportment of the royalty of the one, and the liberty of the other.</p>
+            <p>To you therefore Our Lords and Commons, aſſembled in this Our preſent Parliament, to treat and manage the difficult affaires of this Kingdome, We doe moſt willingly commit and commend the care of them, Wee believe ſo many noble and wiſe men, as here are gathered together, cannot be recreant from the vertue of their Predeceſſors, who have obtained and ordained ſo many wholeſome and profitable lawes for the weale of the Subject, but be as in<g ref="char:EOLhyphen"/>duſtrious and zealous in the buſineſſe of the Common<g ref="char:EOLhyphen"/>wealth, as they have beene carefull husbands of their properties and patrimonies: they expect from you the con<g ref="char:EOLhyphen"/>firmation and augmentation of their liberties; and for Our owne part, We are ſo confident of your well meanings to Us, that We will freely intruſt you with all the differences, or controverſies between Our Selfe and people, if any ſuch there be, that you may rectifie and reform them: Our people are as Our Selfe, and whatſoever ill or injury happens to them, either by the too much rigor of the lawes, or ini<g ref="char:EOLhyphen"/>quity of the Judges. We ſhall judge as caſt upon Us; looke ſeverely to this buſineſſe, and to all other that ſhall either concerne the people, or the true ſervice of God, and you ſhall alwaies finde Us ready and willing to correſpond with your votes in any thing.</p>
+            <p>
+               <pb n="8" facs="tcp:111399:6"/>
+               <!-- PDF PAGE 114 -->
+We have onely one thing to admoniſh you of, which con<g ref="char:EOLhyphen"/>cernes Gods true Religion, and Our ſelfe and people nee<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly, to wit, the power and ſtill increaſing number of Popiſh <hi>Recu<g ref="char:EOLhyphen"/>ſants</hi> in this Kingdome; the <hi>Pope</hi> and Our <hi>Engliſh Fugitives</hi> ſending over from beyond Seas daily new Emiſſaries of un<g ref="char:EOLhyphen"/>truth and ſedition amongſt Us; theſe muſt either be preven<g ref="char:EOLhyphen"/>ted, or as illegitimate and dangerous ſonnes of the Common<g ref="char:EOLhyphen"/>wealth, cut off, uſe in it your owne diſcretions; We are con<g ref="char:EOLhyphen"/>fident Our Parliament hath as great a ſtocke of wiſdome as the grand Councell of any Kingdome whatſoever, that the wiſeſt of the Kings Our Progenitors have relyed upon their prudence, well then may We, a poore weake woman put all Our confidence in your diſcretions, which wee ſhall ever as well as at this preſent time, beſeech the God of Heaven to increaſe and bleſſe, that the Land may be happy in the pen<g ref="char:EOLhyphen"/>dence of your Councels, and We rejoyce and be exalted and beloved of Our neighbours, to the peace of Our Kingdome and Our owne increaſe of happineſſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
